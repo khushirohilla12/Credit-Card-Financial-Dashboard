@@ -18,4 +18,4 @@ effectively.
 - Streamlined data processing & analysis to monitor key performance metrics and trends.
 - Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
-#### Check PowerBI Dashboard : [Credit Card Transaction & Customer Report](https://github.com/khushirohilla12/Credit-Card-Financial-Dashboard/blob/main/Credit%20Card%20PowerBI%20Dashboard.pbix)
+#### Check PowerBI Dashboard : [Credit Card Transaction & Customer Interactive Dashboard](https://github.com/khushirohilla12/Credit-Card-Financial-Dashboard/blob/main/Credit%20Card%20PowerBI%20Dashboard.pbix)
