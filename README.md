@@ -19,3 +19,5 @@ effectively.
 - Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
 #### Check PowerBI Dashboard : [Credit Card Transaction & Customer Interactive Dashboard](https://github.com/khushirohilla12/Credit-Card-Financial-Dashboard/blob/main/Credit%20Card%20PowerBI%20Dashboard.pbix)
+
+#### Check Project Insights : [Credut Card Financial Weekly Report (ppt)](https://github.com/khushirohilla12/Credit-Card-Financial-Dashboard/blob/main/Credit%20Card%20Financial%20Weekly%20Dashboard%20Report.pdf)
